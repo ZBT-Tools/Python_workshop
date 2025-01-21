@@ -5,9 +5,10 @@ Die Kursinhalte sind:
 - Python und Jupyter Grundlagen (`python_kurs_teil_1.ipynb`)
 - Variablen and grundlegende Datenstrukturen (`python_kurs_teil_1.ipynb`)
 - Programmlogik (Funktionen, Schleifen, bedingte Ausführung, etc.) (`python_kurs_teil_2.ipynb`)
-- Datenverarbeitung (anhand eines Beispieldatensatzes) (`python_kurs_teil_3.ipynb`)
+- Datenverarbeitung (anhand eines Beispieldatensatzes) (`python_kurs_teil_3.ipynb`, `python_kurs_teil_3_kompakt.ipynb`)
 - Ressourcen für weiteres Lernen (`python_kurs_teil_3.ipynb`)
 
+`python_kurs_teil_3_kompakt.ipynb` bündelt die gesamte Auswertung in eine Funktion, die dann auf eine Liste von Datensets angewendet werden kann. 
 Die Daten, an denen die Beispiele in Teil 3 gezeigt werden, befinden sich im Ordner `Daten`
 
 Für weitere Informationen zu Python verweisen wir auf das Wiki im Intranet: 
